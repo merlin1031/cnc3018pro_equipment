@@ -11,4 +11,5 @@ Für die Y-Achse wird der mechanische Referenzschalter an der hinteren Verbindun
 
 ## Energiekette X-Achse
 Energiekette für die Z-Achse. Die Kette liegt auf dem X-Portal auf und wird am Z-Schrittmotor befestigt. Dazu sind keine Bohrungen oder Veränderungen am Frame nötig.
-![Energiekette](/images/cnc3018_EnergieKette20x12 v18_img01.png)
+![Energiekette]("\images\cnc3018_EnergieKette20x12 v18_img01.png")
+
