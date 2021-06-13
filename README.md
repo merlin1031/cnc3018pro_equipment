@@ -27,4 +27,5 @@ Kabelkanal mit Rastnasen für das Schmittmotor-Kabel der X-Achse. Kabelkanal in 
 
 ## Clamb - Spannpratze
 Einfache Spannpratze zum selberdrucken mit PLA. (Version 1)
+Achtung, die Spannpranzen sind natürlich nur für kleine Kräfte (z.B. Gravieren oder Fräsen in weichen Werkstoffen mit wenig Zustellung und moderaten Vorschüben gedacht. Bei höheren Belastungen, sollten die Einzelteile der Clamb`s aus ALU oder Stahl gefertigt werden)
 ![Clamb](/images/cnc3018_Clamb.png)
