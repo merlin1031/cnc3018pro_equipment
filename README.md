@@ -24,3 +24,7 @@ Kabelkanal mit Rastnasen für das Schmittmotor-Kabel der X-Achse. Kabelkanal in 
 ![Kabelkanal 2](/images/cnc3018_Kabelkanal_v6_img02.png)
 ![Kabelkanal 3](/images/cnc3018_Kabelkanal_v6_img03.png)
 ![Kabelkanal 4](/images/cnc3018_Kabelkanal_v6_img04.png)
+
+## Clamb - Spannpratze
+Einfache Spannpratze zum selberdrucken mit PLA. (Version 1)
+![Clamb](/images/cnc3018_Clamb.png)
